@@ -1,0 +1,47 @@
+Water Quality Summary Report
+Reference standard: ECR-2023 (Bangladesh)
+
+TDS
+  Average: 994.00
+  Highest: 1340.0 at Gopalganj-D (Sample S04)
+  Lowest: 690.0 at Gopalganj-E (Sample S05)
+  ECR-2023 limit: 1000
+  Outside limit in 2 sample(s):
+    - Gopalganj-B (Sample S02): 1120.0
+    - Gopalganj-D (Sample S04): 1340.0
+
+pH
+  Average: 7.44
+  Highest: 8.7 at Gopalganj-B (Sample S02)
+  Lowest: 6.2 at Gopalganj-D (Sample S04)
+  ECR-2023 limit: 6.5-8.5
+  Outside limit in 2 sample(s):
+    - Gopalganj-B (Sample S02): 8.7
+    - Gopalganj-D (Sample S04): 6.2
+
+Iron
+  Average: 1.16
+  Highest: 2.1 at Gopalganj-D (Sample S04)
+  Lowest: 0.4 at Gopalganj-C (Sample S03)
+  ECR-2023 limit: 1
+  Outside limit in 2 sample(s):
+    - Gopalganj-B (Sample S02): 1.6
+    - Gopalganj-D (Sample S04): 2.1
+
+Chloride
+  Average: 221.00
+  Highest: 310.0 at Gopalganj-B (Sample S02)
+  Lowest: 140.0 at Gopalganj-E (Sample S05)
+  ECR-2023 limit: 250
+  Outside limit in 2 sample(s):
+    - Gopalganj-B (Sample S02): 310.0
+    - Gopalganj-D (Sample S04): 265.0
+
+Turbidity
+  Average: 3.70
+  Highest: 6.5 at Gopalganj-B (Sample S02)
+  Lowest: 1.9 at Gopalganj-E (Sample S05)
+  ECR-2023 limit: 5
+  Outside limit in 1 sample(s):
+    - Gopalganj-B (Sample S02): 6.5
+
